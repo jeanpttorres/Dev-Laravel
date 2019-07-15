@@ -100,4 +100,3 @@ Após instalar o Laravel **cheque as permissões das pastas e arquivos gerados**
 #### Importar
 É possível mover um projeto Laravel já criado para a pasta raiz. Note que pode ser preciso alterar 
 **vagrant/config/configuracoes.conf**.
-
